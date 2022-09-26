@@ -1,4 +1,4 @@
-[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/header1.png' alt='header' width='1080' height='480'>](https://github.com/hun7erCybersecurity)
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/header1.png' alt='header'  height='380'>](https://github.com/hun7erCybersecurity)
 
 # hun7er
 I am hun7er from Germany, a 40+ year old IT professional.  
