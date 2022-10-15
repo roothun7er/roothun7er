@@ -69,3 +69,7 @@ Since my childhood I have been involved with IT now almost 3 decades.
 ## Certifications
 [<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/MCSA-Windows%20Server%202016.png' alt='MCSA' height='120'>](https://github.com/hun7erCybersecurity) 
 [<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/MCSE-Core_Infrastructure.png' alt='MCSE' height='120'>](https://github.com/hun7erCybersecurity) 
+<br />
+<br />
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/ICIP_Introduction_to_Critical_Infrastructure_Protection.png' alt='ICIP' height='160'>](https://github.com/hun7erCybersecurity) 
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/OFSA_OPSWAT_File_Security_Associate.png' alt='OFSA' height='160'>](https://github.com/hun7erCybersecurity) 
