@@ -73,7 +73,7 @@ Since my childhood I have been involved with IT now almost 3 decades.
 <br />
 <br />
 
-[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/ICIP_Introduction_to_Critical_Infrastructure_Protection.png' alt='ICIP' height='160'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/ICIP_Introduction_to_Critical_Infrastructure_Protection.png' alt='ICIP' height='160)
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/ICIP_Introduction_to_Critical_Infrastructure_Protection.png' alt='ICIP' height='160'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/ICIP_Introduction_to_Critical_Infrastructure_Protection.png)
 [<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/OFSA_OPSWAT_File_Security_Associate.png' alt='OFSA' height='160'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/OFSA_OPSWAT_File_Security_Associate.png)
 
 <br />
