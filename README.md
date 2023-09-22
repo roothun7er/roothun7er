@@ -94,5 +94,5 @@ Since my childhood I have been involved with IT now almost 3 decades.
 ### Ranking by contests:
 | $\text{\color{#9b5584}{ID}}$ | $\text{\color{#9b5584}{Event}}$ | $\text{\color{#9b5584}{Registered}}$ | $\text{\color{#9b5584}{Location}}$ | $\text{\color{#9b5584}{Active Users}}$ | $\text{\color{green}{my rank}}$ |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| $\text{\color{#6b6867}{1}}$ | $\text{\color{#1745a8}{Deutschlands Bester Hacker Online-Qualifier 2023}}$ | $\text{\color{#1745a8}{486}}$ | $\text{\color{#1745a8}{Online}}$ | $\text{\color{#1745a8}{273}}$ | $\text{\color{green}{15} \ \color{#6b6867}{/}\ \color{#6b6867}{273}}$ |
-| $\text{\color{#6b6867}{2}}$ | $\text{\color{#1745a8}{Deutschlands Bester Hacker Finals 2023}}$ | $\text{\color{#1745a8}{}}$ | $\text{\color{#1745a8}{Dortmund}}$ | $\text{\color{#1745a8}{20}}$ | $\text{\color{green}{open} \ \color{#6b6867}{/}\ \color{#6b6867}{20}}$ |
+| $\text{\color{#6b6867}{1}}$ | $\text{\color{#2f81f7}{Deutschlands Bester Hacker Online-Qualifier 2023}}$ | $\text{\color{#2f81f7}{486}}$ | $\text{\color{#2f81f7}{Online}}$ | $\text{\color{#2f81f7}{273}}$ | $\text{\color{green}{15} \ \color{#6b6867}{/}\ \color{#6b6867}{273}}$ |
+| $\text{\color{#6b6867}{2}}$ | $\text{\color{#2f81f7}{Deutschlands Bester Hacker Finals 2023}}$ | $\text{\color{#2f81f7}{}}$ | $\text{\color{#2f81f7}{Dortmund}}$ | $\text{\color{#2f81f7}{20}}$ | $\text{\color{green}{open} \ \color{#6b6867}{/}\ \color{#6b6867}{20}}$ |
