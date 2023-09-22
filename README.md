@@ -81,3 +81,13 @@ Since my childhood I have been involved with IT now almost 3 decades.
 
 [<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/Ethical_Hacking_Essentials_Badge.png' alt='ICIP' height='100'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/Ethical_Hacking_Essentials_Badge.png)
 
+## Events
+
+### 2022
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/CA_2022_CTF_logo.png' alt='Cyber Apocalypse CTF 2022' height='100'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/CA_2022_CTF_logo.png)
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/tryhackme_advent_of_cyber_2022_transparent.png' alt='tryhackme advent of cyber 2022' height='100'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/tryhackme_advent_of_cyber_2022_transparent.png)
+
+### 2023
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/DBH_Logo_2022_new-transparent.png' alt='Deutschlands Bester Hacker Online-Qualifier 2023' height='100'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/DBH_Logo_2022_new-transparent.png)
+
+
