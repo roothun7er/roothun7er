@@ -67,17 +67,17 @@ Since my childhood I have been involved with IT now almost 3 decades.
 
 
 ## Certifications
-<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/MCSA-Windows%20Server%202016.png' alt='MCSA' height='120'>
-<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/MCSE-Core_Infrastructure.png' alt='MCSE' height='120'> 
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/MCSA-Windows%20Server%202016.png' alt='MCSA' height='120'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/MCSA-Windows%20Server%202016.png)
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/MCSE-Core_Infrastructure.png' alt='MCSE' height='120'> ](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/MCSE-Core_Infrastructure.png)
 
 <br />
 <br />
 
-<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/ICIP_Introduction_to_Critical_Infrastructure_Protection.png' alt='ICIP' height='160'>
-<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/OFSA_OPSWAT_File_Security_Associate.png' alt='OFSA' height='160'>
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/ICIP_Introduction_to_Critical_Infrastructure_Protection.png' alt='ICIP' height='160'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/ICIP_Introduction_to_Critical_Infrastructure_Protection.png' alt='ICIP' height='160)
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/OFSA_OPSWAT_File_Security_Associate.png' alt='OFSA' height='160'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/OFSA_OPSWAT_File_Security_Associate.png)
 
 <br />
 <br />
 
-<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/Ethical_Hacking_Essentials_Badge.png' alt='ICIP' height='100'> 
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/Ethical_Hacking_Essentials_Badge.png' alt='ICIP' height='100'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/Ethical_Hacking_Essentials_Badge.png)
 
