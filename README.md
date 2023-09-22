@@ -84,10 +84,15 @@ Since my childhood I have been involved with IT now almost 3 decades.
 ## Events
 
 ### 2022
-[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/CA_2022_CTF_logo.png' alt='Cyber Apocalypse CTF 2022' height='100'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/CA_2022_CTF_logo.png)
-[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/tryhackme_advent_of_cyber_2022_transparent.png' alt='tryhackme advent of cyber 2022' height='100'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/tryhackme_advent_of_cyber_2022_transparent.png)
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/CA_2022_CTF_logo.png' alt='Cyber Apocalypse CTF 2022' height='100'>](https://www.hackthebox.com/events/cyber-apocalypse-2022)
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/tryhackme_advent_of_cyber_2022_transparent.png' alt='tryhackme advent of cyber 2022' height='100'>](https://tryhackme.com/christmas)
 
 ### 2023
-[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/DBH_Logo_2022_new-transparent.png' alt='Deutschlands Bester Hacker Online-Qualifier 2023' height='100'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/DBH_Logo_2022_new-transparent.png)
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/DBH_Logo_2022_new-transparent.png' alt='Deutschlands Bester Hacker Online-Qualifier 2023' height='100'>](https://deutschlands-bester-hacker.de/)
 
 
+### Ranking by contests:
+| $\text{\color{#9b5584}{ID}}$ | $\text{\color{#9b5584}{Event}}$ | $\text{\color{#9b5584}{Registered users}}$ | $\text{\color{#9b5584}{Location}}$ | $\text{\color{#9b5584}{Active Users}}$ | $\text{\color{green}{my rank}}$ |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| $\text{\color{#6b6867}{1}}$ | $\text{\color{#1745a8}{Deutschlands Bester Hacker Online-Qualifier 2023}}$ | $\text{\color{#1745a8}{486}}$ | $\text{\color{#1745a8}{Online}}$ | $\text{\color{#1745a8}{273}}$ | $\text{\color{green}{15} \ \color{#6b6867}{/}\ \color{#6b6867}{273}}$ |
+| $\text{\color{#6b6867}{2}}$ | $\text{\color{#1745a8}{Deutschlands Bester Hacker Finals 2023}}$ | $\text{\color{#1745a8}{}}$ | $\text{\color{#1745a8}{Dortmund}}$ | $\text{\color{#1745a8}{20}}$ | $\text{\color{green}{open} \ \color{#6b6867}{/}\ \color{#6b6867}{20}}$ |
