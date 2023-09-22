@@ -8,13 +8,13 @@ Since my childhood I have been involved with IT now almost 3 decades.
 
 ## Skills and Experience
 #### 📋 Languages
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=yellow&style=plastic&logoWidth=20" alt="python"/></a>
-<a href="https://html5.org/"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=plastic&logoWidth=20" alt="html"/></a>
-<a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-JAVA-orange?logo=Java&logoColor=white&style=plastic&logoWidth=20" alt="java"/></a>
-<a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/-Ansible-black?logo=Ansible&logoColor=white&style=plastic&logoWidth=20" alt="ansible"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=yellow&style=plastic&logoWidth=20" alt="python" target="_blank">python/></a>
+<a href="https://html5.org/"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=plastic&logoWidth=20" alt="html" target="_blank">html/></a>
+<a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-JAVA-orange?logo=Java&logoColor=white&style=plastic&logoWidth=20" alt="java" target="_blank">java/></a>
+<a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/-Ansible-black?logo=Ansible&logoColor=white&style=plastic&logoWidth=20" alt="ansible" target="_blank">ansible/></a>
 
 ####  💻 IDEs/Editors
-<a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/-PyCharm-green?logo=PyCharm&logoColor=000000&style=plastic&logoWidth=20" alt="pycharm"/></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/-PyCharm-green?logo=PyCharm&logoColor=000000&style=plastic&logoWidth=20" alt="pycharm" target="_blank"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-yellow?logo=VisualStudioCode&logoColor=007ACC&style=plastic&logoWidth=20" alt="visual studio code"/></a>
 <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/-Sublime%20Text-gray?logo=SublimeText&logoColor=FF9800&style=plastic&logoWidth=20" alt="sublimetext"/></a>
 
