@@ -92,7 +92,7 @@ Since my childhood I have been involved with IT now almost 3 decades.
 
 
 ### Ranking by contests:
-| $\text{\color{#9b5584}{id}}$ | $\text{\color{#9b5584}{event}}$ | $\text{\color{#9b5584}{registered}}$ | $\text{\color{#9b5584}{location}}$ | $\text{\color{#9b5584}{active users}}$ | $\text{\color{green}{my rank}}$ |
+| $\text{\color{#9b5584}{id}}$ | $\text{\color{#9b5584}{event}}$ | $\text{\color{#9b5584}{registered}}$ | $\text{\color{#9b5584}{location}}$ | $\text{\color{#9b5584}{active users}}$ | $\text{\color{#5ecc43}{my rank}}$ |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| $\text{\color{#6b6867}{1}}$ | $\text{\color{#2f81f7}{Deutschlands Bester Hacker Online-Qualifier 2023}}$ | $\text{\color{#2f81f7}{486}}$ | $\text{\color{#2f81f7}{Online}}$ | $\text{\color{#2f81f7}{273}}$ | $\text{\color{green}{15} \ \color{#6b6867}{/}\ \color{#6b6867}{273}}$ |
-| $\text{\color{#6b6867}{2}}$ | $\text{\color{#2f81f7}{Deutschlands Bester Hacker Finals 2023}}$ | $\text{\color{#2f81f7}{}}$ | $\text{\color{#2f81f7}{Dortmund}}$ | $\text{\color{#2f81f7}{20}}$ | $\text{\color{green}{open} \ \color{#6b6867}{/}\ \color{#6b6867}{20}}$ |
+| $\text{\color{#6b6867}{1}}$ | $\text{\color{#2f81f7}{Deutschlands Bester Hacker Online-Qualifier 2023}}$ | $\text{\color{#2f81f7}{486}}$ | $\text{\color{#2f81f7}{Online}}$ | $\text{\color{#2f81f7}{273}}$ | $\text{\color{#5ecc43}{15} \ \color{#6b6867}{/}\ \color{#6b6867}{273}}$ |
+| $\text{\color{#6b6867}{2}}$ | $\text{\color{#2f81f7}{Deutschlands Bester Hacker Finals 2023}}$ | $\text{\color{#2f81f7}{}}$ | $\text{\color{#2f81f7}{Dortmund}}$ | $\text{\color{#2f81f7}{20}}$ | $\text{\color{#5ecc43}{open} \ \color{#6b6867}{/}\ \color{#6b6867}{20}}$ |
