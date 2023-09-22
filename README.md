@@ -63,18 +63,21 @@ Since my childhood I have been involved with IT now almost 3 decades.
                                                 
 
 ####  🤴 Developer/Forums
-![Stack Overflow]()
 <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/-Stack_Overflow-F58025?logo=Stack%20Overflow&logoColor=white&style=plastic&logoWidth=20" alt="Stackoverflow"/></a>
 
 
 ## Certifications
 <img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/MCSA-Windows%20Server%202016.png' alt='MCSA' height='120'>
 <img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/MCSE-Core_Infrastructure.png' alt='MCSE' height='120'> 
+
 <br />
 <br />
+
 <img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/ICIP_Introduction_to_Critical_Infrastructure_Protection.png' alt='ICIP' height='160'>
 <img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/OFSA_OPSWAT_File_Security_Associate.png' alt='OFSA' height='160'>
+
 <br />
 <br />
+
 <img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/Ethical_Hacking_Essentials_Badge.png' alt='ICIP' height='100'> 
 
