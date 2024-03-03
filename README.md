@@ -70,6 +70,12 @@ Since my childhood I have been involved with IT now almost 3 decades.
 [<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/MCSA-Windows%20Server%202016.png' alt='MCSA' height='120'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/MCSA-Windows%20Server%202016.png)
 [<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/MCSE-Core_Infrastructure.png' alt='MCSE' height='120'> ](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/MCSE-Core_Infrastructure.png)
 
+
+<br />
+<br />
+
+[<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/CISCO_Ethical_Hacker.png' alt='ICIP' height='120'>](https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/CISCO_Ethical_Hacker.png)
+
 <br />
 <br />
 
