@@ -97,7 +97,7 @@ Since my childhood I have been involved with IT now almost 3 decades.
 [<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/DBH_Logo_2022_new-transparent.png' alt='Deutschlands Bester Hacker Online-Qualifier 2023' height='100'>](https://deutschlands-bester-hacker.de/)
 [<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/TheHaxorcist2023Logo.png' alt='The Haxorcist 2023 BONN' height='100'>](https://ctf.hackthebox.com/event/details/the-haxorcist-a-halloween-ctf-1193)
 
-### 2023
+### 2024
 [<img src='https://github.com/hun7erCybersecurity/hun7erCybersecurity/blob/main/img/CyberApocalypse2024.png' alt='Cyber Apocalypse 2024: Hacker Royale' height='100'>](https://ctf.hackthebox.com/event/details/cyber-apocalypse-2024-hacker-royale-1386)
 
 
