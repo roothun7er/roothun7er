@@ -1,6 +1,6 @@
 [<img src='https://github.com/z3r0dayhun7er/z3r0dayhun7er/blob/main/img/header.png' alt='header' height='290'>](https://github.com/z3r0dayhun7er)
 
-# hun7er
+# z3r0dayhun7er
 I am hun7er from Germany, a 40+ year old IT professional.  
 Since my childhood I have been involved with IT now almost 3 decades.  
 
