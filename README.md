@@ -101,6 +101,7 @@ Since my childhood I have been involved with IT now almost 3 decades.
 [<img src='https://github.com/roothun7er/roothun7er/blob/main/img/CyberApocalypse2024.png' alt='Cyber Apocalypse 2024: Hacker Royale' height='100'>](https://ctf.hackthebox.com/event/details/cyber-apocalypse-2024-hacker-royale-1386)
 [<img src='https://github.com/roothun7er/roothun7er/blob/main/img/DBH_Logo_2022_new-transparent.png' alt='Deutschlands Bester Hacker Online-Qualifier 2024' height='100'>](https://deutschlands-bester-hacker.de/)
 [<img src='https://github.com/roothun7er/roothun7er/blob/main/img/usdcoin.png' alt='usd Hacking-Night 2024' height='100'>](https://www.usd.de/cst-academy/events/usd-hacking-night/)
+[<img src='https://github.com/roothun7er/roothun7er/blob/main/img/thm-adventofcyber2024.png' alt='tryhackme advent of cyber 2024' height='100'>](https://tryhackme.com/christmas)
 
 ### Ranking by contests:
 | $\text{\color{#9b5584}{id}}$ | $\text{\color{#9b5584}{event}}$ | $\text{\color{#9b5584}{registered}}$ | $\text{\color{#9b5584}{location}}$ | $\text{\color{#9b5584}{active users}}$ | $\text{\color{#5ecc43}{my rank}}$ |
