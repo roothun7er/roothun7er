@@ -103,12 +103,17 @@ Since my childhood I have been involved with IT now almost 3 decades.
 [<img src='https://github.com/roothun7er/roothun7er/blob/main/img/usdcoin.png' alt='usd Hacking-Night 2024' height='100'>](https://www.usd.de/cst-academy/events/usd-hacking-night/)
 [<img src='https://github.com/roothun7er/roothun7er/blob/main/img/thm-adventofcyber2024.png' alt='tryhackme advent of cyber 2024' height='100'>](https://tryhackme.com/christmas)
 
+### 2025
+[<img src='https://github.com/roothun7er/roothun7er/blob/main/img/cscg_logo.png' alt='Cyber Security Challenge 2025' height='100'>](https://play.cscg.live/)
+
 ### Ranking by contests:
 | $\text{\color{#9b5584}{id}}$ | $\text{\color{#9b5584}{event}}$ | $\text{\color{#9b5584}{registered}}$ | $\text{\color{#9b5584}{location}}$ | $\text{\color{#9b5584}{active users}}$ | $\text{\color{#5ecc43}{my rank}}$ |
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | $\text{\color{#6b6867}{1}}$ | $\text{\color{#2f81f7}{Deutschlands Bester Hacker Online-Qualifier 2023}}$ | $\text{\color{#2f81f7}{2014}}$ | $\text{\color{#2f81f7}{Online}}$ | $\text{\color{#2f81f7}{273}}$ | $\text{\color{#5ecc43}{15} \ \color{#6b6867}{/}\ \color{#6b6867}{273}}$ |
-| $\text{\color{#6b6867}{2}}$ | $\text{\color{#2f81f7}{Deutschlands Bester Hacker Finals 2023}}$ | $\text{\color{#2f81f7}{}}$ | $\text{\color{#2f81f7}{Dortmund}}$ | $\text{\color{#2f81f7}{20}}$ | $\text{\color{#5ecc43}{open} \ \color{#6b6867}{/}\ \color{#6b6867}{20}}$ |
+| $\text{\color{#6b6867}{2}}$ | $\text{\color{#2f81f7}{Deutschlands Bester Hacker Finals 2023}}$ | $\text{\color{#2f81f7}{20}}$ | $\text{\color{#2f81f7}{Dortmund}}$ | $\text{\color{#2f81f7}{20}}$ | $\text{\color{#5ecc43}{open} \ \color{#6b6867}{/}\ \color{#6b6867}{20}}$ |
 | $\text{\color{#6b6867}{3}}$ | $\text{\color{#2f81f7}{The Haxorcist 2023}}$ | $\text{\color{#2f81f7}{33}}$ | $\text{\color{#2f81f7}{Bonn}}$ | $\text{\color{#2f81f7}{260}}$ | $\text{\color{#5ecc43}{22} \ \color{#6b6867}{/}\ \color{#6b6867}{33}}$ |
 | $\text{\color{#6b6867}{4}}$ | $\text{\color{#2f81f7}{Cyber Apocalypse 2024: Hacker Royale}}$ | $\text{\color{#2f81f7}{5693}}$ | $\text{\color{#2f81f7}{Online}}$ | $\text{\color{#2f81f7}{12965}}$ | $\text{\color{#5ecc43}{1781} \ \color{#6b6867}{/}\ \color{#6b6867}{5693}}$ |
-| $\text{\color{#6b6867}{2}}$ | $\text{\color{#2f81f7}{Deutschlands Bester Hacker Finals 2024}}$ | $\text{\color{#2f81f7}{}}$ | $\text{\color{#2f81f7}{Dortmund}}$ | $\text{\color{#2f81f7}{35}}$ | $\text{\color{#5ecc43}{open} \ \color{#6b6867}{/}\ \color{#6b6867}{35}}$ |
-| $\text{\color{#6b6867}{2}}$ | $\text{\color{#2f81f7}{usd Hacking-Night 2024}}$ | $\text{\color{#2f81f7}{}}$ | $\text{\color{#2f81f7}{Cologne}}$ | $\text{\color{#2f81f7}{30}}$ | $\text{\color{#5ecc43}{3} \ \color{#6b6867}{/}\ \color{#6b6867}{10}}$ |
+| $\text{\color{#6b6867}{5}}$ | $\text{\color{#2f81f7}{Deutschlands Bester Hacker Finals 2024}}$ | $\text{\color{#2f81f7}{35}}$ | $\text{\color{#2f81f7}{Dortmund}}$ | $\text{\color{#2f81f7}{35}}$ | $\text{\color{#5ecc43}{open} \ \color{#6b6867}{/}\ \color{#6b6867}{35}}$ |
+| $\text{\color{#6b6867}{6}}$ | $\text{\color{#2f81f7}{usd Hacking-Night 2024}}$ | $\text{\color{#2f81f7}{30}}$ | $\text{\color{#2f81f7}{Cologne}}$ | $\text{\color{#2f81f7}{30}}$ | $\text{\color{#5ecc43}{3} \ \color{#6b6867}{/}\ \color{#6b6867}{10}}$ |
+| $\text{\color{#6b6867}{7}}$ | $\text{\color{#2f81f7}{CSCG - Cyber Security Challenge Germany 2025 (Overall) }}$ | $\text{\color{#2f81f7}{1419}}$ | $\text{\color{#2f81f7}{Online}}$ | $\text{\color{#2f81f7}{1419}}$ | $\text{\color{#5ecc43}{80} \ \color{#6b6867}{/}\ \color{#6b6867}{1419}}$ |
+| $\text{\color{#6b6867}{8}}$ | $\text{\color{#2f81f7}{CSCG - Cyber Security Challenge Germany 2025 (Bracket: Dach Earth) }}$ | $\text{\color{#2f81f7}{1419}}$ | $\text{\color{#2f81f7}{Online}}$ | $\text{\color{#2f81f7}{1419}}$ | $\text{\color{#5ecc43}{10} \ \color{#6b6867}{/}\ \color{#6b6867}{164}}$ |
