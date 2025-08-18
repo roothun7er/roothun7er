@@ -105,6 +105,7 @@ Since my childhood I have been involved with IT now almost 3 decades.
 
 ### 2025
 [<img src='https://github.com/roothun7er/roothun7er/blob/main/img/cscg_logo.png' alt='Cyber Security Challenge 2025' height='100'>](https://play.cscg.live/)
+[<img src='https://github.com/roothun7er/roothun7er/blob/main/img/DBH_Logo_2022_new-transparent.png' alt='Deutschlands Bester Hacker Online-Qualifier 2025' height='100'>](https://deutschlands-bester-hacker.de/)
 
 ### Ranking by contests:
 | $\text{\color{#9b5584}{id}}$ | $\text{\color{#9b5584}{event}}$ | $\text{\color{#9b5584}{registered}}$ | $\text{\color{#9b5584}{location}}$ | $\text{\color{#9b5584}{active users}}$ | $\text{\color{#5ecc43}{my rank}}$ |
@@ -117,3 +118,4 @@ Since my childhood I have been involved with IT now almost 3 decades.
 | $\text{\color{#6b6867}{6}}$ | $\text{\color{#2f81f7}{usd Hacking-Night 2024}}$ | $\text{\color{#2f81f7}{30}}$ | $\text{\color{#2f81f7}{Cologne}}$ | $\text{\color{#2f81f7}{30}}$ | $\text{\color{#5ecc43}{3} \ \color{#6b6867}{/}\ \color{#6b6867}{10}}$ |
 | $\text{\color{#6b6867}{7}}$ | $\text{\color{#2f81f7}{CSCG - Cyber Security Challenge Germany 2025 (Overall) }}$ | $\text{\color{#2f81f7}{1419}}$ | $\text{\color{#2f81f7}{Online}}$ | $\text{\color{#2f81f7}{1419}}$ | $\text{\color{#5ecc43}{80} \ \color{#6b6867}{/}\ \color{#6b6867}{1419}}$ |
 | $\text{\color{#6b6867}{8}}$ | $\text{\color{#2f81f7}{CSCG - Cyber Security Challenge Germany 2025 (Bracket: Dach Earth) }}$ | $\text{\color{#2f81f7}{1419}}$ | $\text{\color{#2f81f7}{Online}}$ | $\text{\color{#2f81f7}{1419}}$ | $\text{\color{#5ecc43}{10} \ \color{#6b6867}{/}\ \color{#6b6867}{164}}$ |
+| $\text{\color{#6b6867}{9}}$ | $\text{\color{#2f81f7}{Deutschlands Bester Hacker Online-Qualifier 2025}}$ | $\text{\color{#2f81f7}{550}}$ | $\text{\color{#2f81f7}{Online}}$ | $\text{\color{#2f81f7}{67}}$ | $\text{\color{#5ecc43}{5} \ \color{#6b6867}{/}\ \color{#6b6867}{67}}$ |
