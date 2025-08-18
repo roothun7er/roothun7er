@@ -9,14 +9,21 @@ Since my childhood I have been involved with IT now almost 3 decades.
 ## Skills and Experience
 #### 📋 Languages
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=yellow&style=plastic&logoWidth=20" alt="python" /></a>
+<a href="https://go.dev/"><img src="https://img.shields.io/badge/-Golang-yellow?logo=go&logoColor=blue&style=plastic&logoWidth=20" alt="go" /></a>
+<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-black?logo=rust&logoColor=red&style=plastic&logoWidth=20" alt="rust" /></a>
 <a href="https://html5.org/"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=plastic&logoWidth=20" alt="html"/></a>
-<a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-JAVA-orange?logo=Java&logoColor=white&style=plastic&logoWidth=20" alt="java"/></a>
+<a href="https://htmx.org/"><img src="https://img.shields.io/badge/-HTMX-white?logo=htmx&logoColor=blue&style=plastic&logoWidth=20" alt="htmx"/></a>
+<a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-JavaScript-orange?logo=javascript&logoColor=white&style=plastic&logoWidth=20" alt="javascript"/></a>
 <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/-Ansible-black?logo=Ansible&logoColor=white&style=plastic&logoWidth=20" alt="ansible"/></a>
+
 
 ####  💻 IDEs/Editors
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/-PyCharm-green?logo=PyCharm&logoColor=000000&style=plastic&logoWidth=20" alt="pycharm"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-yellow?logo=VisualStudioCode&logoColor=007ACC&style=plastic&logoWidth=20" alt="visual studio code"/></a>
+<a href="https://vscodium.com/"><img src="https://img.shields.io/badge/-Codium-yellow?logo=VSCodium&logoColor=007ACC&style=plastic&logoWidth=20" alt="vscodium"/></a>
+<a href="https://neovim.io/"><img src="https://img.shields.io/badge/-Nvim-black?logo=Neovim&logoColor=green&style=plastic&logoWidth=20" alt="nvim"/></a>
 <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/-Sublime%20Text-gray?logo=SublimeText&logoColor=FF9800&style=plastic&logoWidth=20" alt="sublimetext"/></a>
+
+
 
 ####  🎛️ Operating System
 * Windows
@@ -32,6 +39,8 @@ Since my childhood I have been involved with IT now almost 3 decades.
 * Linux
 
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=white&style=plastic&logoWidth=20" alt="ubuntu"/></a>
+<a href="https://www.debian.org/"><img src="https://img.shields.io/badge/-Debian-gray?logo=Debian&logoColor=red&style=plastic&logoWidth=20" alt="debian"/></a>
+<a href="https://www.debian.org/"><img src="https://img.shields.io/badge/-Arch-gray?logo=Arch%20Linux&logoColor=cyan&style=plastic&logoWidth=20" alt="arch"/></a>
 <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?logo=Kali%20Linux&logoColor=white&style=plastic&logoWidth=20" alt="kali linux"/></a>
 
 ####  🏢 Office
