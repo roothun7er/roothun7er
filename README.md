@@ -1,4 +1,4 @@
-[<img src='https://github.com/roothun7er/roothun7er/blob/main/img/header.png' alt='header' height='290'>](https://github.com/roothun7er)
+[<img src='https://github.com/roothun7er/roothun7er/blob/main/img/GithubHeader.png' alt='header' height=''>](https://github.com/roothun7er)
 
 # roothun7er
 I am roothun7er from Germany, a 40+ year old IT professional.  
