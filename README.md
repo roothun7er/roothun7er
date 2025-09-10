@@ -386,7 +386,7 @@ Since my childhood I have been involved with IT now almost 3 decades.
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="25" height="25"/>
       <br>
-      <a href="https://stackoverflow.com/questions" target="_blank">StackOver</a>
+      <a href="https://stackoverflow.com/questions" target="_blank">StackOverFlow</a>
     </td>
   </tr>
 </table>
