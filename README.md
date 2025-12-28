@@ -550,6 +550,11 @@ Since my childhood I have been involved with IT now almost 3 decades.
       <br>
       <a href="https://deutschlands-bester-hacker.de/" target="_blank">DBH</a>
     </td>
+      <td align="center" width="160">
+      <img src="https://github.com/roothun7er/roothun7er/blob/main/img/THMAdventOfCyber2025.png" alt="Tryhackme advent of cyber 2025" width="150" height="100"/>
+      <br>
+      <a href="https://tryhackme.com/adventofcyber25" target="_blank">Advent of Cyber</a>
+    </td>
   </tr>
 </table>
 
