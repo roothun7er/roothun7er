@@ -558,6 +558,19 @@ Since my childhood I have been involved with IT now almost 3 decades.
   </tr>
 </table>
 
+<!-- 2026 -->
+</div>
+<b>🕓&nbsp;2026</b>
+<br><br/>
+<table style="text-align: left; margin-left: 0;">
+  <tr>
+    <td align="center" width="160">
+      <img src="https://github.com/roothun7er/roothun7er/blob/main/img/CyberApocalypse2026.png" alt="Cyber Apocalypse 2024" width="100" height="100"/>
+      <br>
+      <a href="https://ctf.hackthebox.com/event/details/cyber-apocalypse-2024-hacker-royale-1386" target="_blank">Cyber Apocalypse</a>
+    </td>
+</table>
+
 
 <!-- Ranking by contests -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&size=22&duration=3&pause=10000000000&color=7BC182&width=435&lines=Ranking+by+contests:)](https://git.io/typing-svg)
