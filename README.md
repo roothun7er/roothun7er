@@ -585,6 +585,6 @@ Since my childhood I have been involved with IT now almost 3 decades.
 | $\text{\color{#6b6867}{7}}$ | $\text{\color{#2f81f7}{CSCG - Cyber Security Challenge Germany 2025 (Overall) }}$ | $\text{\color{#2f81f7}{1419}}$ | $\text{\color{#2f81f7}{Online}}$ | $\text{\color{#2f81f7}{1419}}$ | $\text{\color{#7BC182}{80} \ \color{#6b6867}{/}\ \color{#6b6867}{1419}}$ |
 | $\text{\color{#6b6867}{8}}$ | $\text{\color{#2f81f7}{CSCG - Cyber Security Challenge Germany 2025 (Bracket: Dach Earth) }}$ | $\text{\color{#2f81f7}{1419}}$ | $\text{\color{#2f81f7}{Online}}$ | $\text{\color{#2f81f7}{1419}}$ | $\text{\color{#7BC182}{10} \ \color{#6b6867}{/}\ \color{#6b6867}{164}}$ |
 | $\text{\color{#6b6867}{9}}$ | $\text{\color{#2f81f7}{Deutschlands Bester Hacker Online-Qualifier 2025}}$ | $\text{\color{#2f81f7}{550}}$ | $\text{\color{#2f81f7}{Online}}$ | $\text{\color{#2f81f7}{67}}$ | $\text{\color{#7BC182}{5} \ \color{#6b6867}{/}\ \color{#6b6867}{67}}$ |
-
+| $\text{\color{#6b6867}{10}}$ | $\text{\color{#2f81f7}{Cyber Apocalypse 2026: The Salt Crown}}$ | $\text{\color{#2f81f7}{6744}}$ | $\text{\color{#2f81f7}{Online}}$ | $\text{\color{#2f81f7}{33720}}$ | $\text{\color{#7BC182}{952} \ \color{#6b6867}{/}\ \color{#6b6867}{6744}}$ |
 ---
 
